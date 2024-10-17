@@ -8,7 +8,7 @@ Release:	11
 Summary:	A switch statement for Perl
 License:	GPL+ or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{upstream_name}
+Url:		https://search.cpan.org/dist/%{upstream_name}
 Source0:	http://www.cpan.org/modules/by-module//%{upstream_name}-%{upstream_version}.tar.gz
 Patch0:		Switch-2.16-perl514.patch
 
